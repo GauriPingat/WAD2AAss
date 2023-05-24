@@ -1,4 +1,0 @@
-Name: Gauri Pingat
-Class: TE
-Subject: WAD
-Description: This is file 1
